@@ -31,4 +31,4 @@ Funkcje w systemie:
 -istnieje widok w którym admin widzi ogłosznia zgłoszone jako nieodpowiednie i może wykonać ban / jest ok
 -istnieje widok w którym admin wyszukuje UŻ po nazwie / id i widzi jego statystyki: od kiedy konto, ogłoszenia ilościowo/jakościowo, ocena UŻ
 
-jak zad wykonane to pisz -T--
+Jak zad wykonane to pisz NP. -T-nazwa_brancha-użytkownik może dokonać rejestracji
