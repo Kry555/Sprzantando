@@ -34,3 +34,5 @@ Funkcje w systemie:
 Jak zad wykonane to pisz NP. -T-nazwa_brancha-użytkownik może dokonać rejestracji
 
 !!!!!!!!!!!!Nazwa bazy danych to -"sprzantando"- ja nie zrobisz takiej to ci nie zadziała!!!!!!!!!
+
+w sql musi być nick w profilu dla sprawdzenia czy wszystko sie dobrze zrobiło jebac nadmiarowość danych
