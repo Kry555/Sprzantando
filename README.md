@@ -32,3 +32,5 @@ Funkcje w systemie:
 -istnieje widok w którym admin wyszukuje UŻ po nazwie / id i widzi jego statystyki: od kiedy konto, ogłoszenia ilościowo/jakościowo, ocena UŻ
 
 Jak zad wykonane to pisz NP. -T-nazwa_brancha-użytkownik może dokonać rejestracji
+
+!!!!!!!!!!!!Nazwa bazy danych to -"sprzantando"- ja nie zrobisz takiej to ci nie zadziała!!!!!!!!!
