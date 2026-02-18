@@ -9,7 +9,7 @@
 <body>
     <h1>Zaloguj sie</h1>
     <button onclick="window.location.href='../main_itp/main.php'">Powrut na główną</button>
-    <button onclick="window.location.href='../login/sign_up.php'">Nie masz konta debilu? Sign_up</button>
+    <button onclick="window.location.href='../login/sign_up.html'">Nie masz konta debilu? Sign_up</button>
     
 </body>
 </html>

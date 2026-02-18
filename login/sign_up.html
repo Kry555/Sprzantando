@@ -1,0 +1,35 @@
+    <!-- STRONA REJESTRACYJNA -->
+<!DOCTYPE html>
+<html lang="PL">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sign_up</title>
+</head>
+<body>
+    <h1> Zarejsetruj sie </h1>
+
+    <form method="POST" action="sign_up.php">
+        <input type="text" name="nick" placeholder="Wpisz Nick">
+        <input type="text" name="email-login" placeholder="Wpisz email do logowania">
+        <input type="text" name="haslo" placeholder="Wpisz haslo">
+        <h2>wybierz plec</h2>
+        <input type="checkbox" id="men" name="men" value="tak">
+        <label for="men">Matcho</label>
+        <input type="checkbox" id="women" name="women" value="tak">
+        <label for="women">Seniorita</label>
+        <input type="checkbox" id="slup" name="slup" value="tak">
+        <label for="slup">Słup elektryczny</label>
+        <br>
+        <h2>Tapczan</h2>
+        Potwierdz że nie jesteś robotem <br>
+        <input type="checkbox" id="tapczan" name="tapczan" value="tak">
+        <label for="tapczan">Jestem człowiekiem</label>
+        <h4><p>Nowy polski system anty botowy jak captha</p></h4>
+        
+        <button type="submit">Wyślij</button>
+    </form>
+
+    <button onclick="window.location.href='../login/sign_in.php'">Masz konto chuju? Login In</button>
+</body>
+</html>
