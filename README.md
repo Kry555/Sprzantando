@@ -4,7 +4,7 @@ Funkcje w systemie:
 1.Grupa funkcji - użytkownik podstawowe
 -użytkownik może dokonać rejestracji
 -użytkownik może potwierdzić rejestrację przez email
--użytkownik może się zalogować (mail i hasło)
+-N-"kry-login"-użytkownik może się zalogować (mail i hasło)
 -użytkownik może zmienić swoją nazwę, email, hasło (te dane są unikatowe)
 -użytkownik może zresetować hasło przez email
 2.Grupa funkcji - użytkownik panel
