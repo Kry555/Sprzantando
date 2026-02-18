@@ -4,10 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- title będzie w wszystkich plikach takie same ale na czas roboty to nazwa pliku -->
     <title>Main</title>
 </head>
 <body>
     <h1>SPRZĄTANDO</h1>
-    ble ble ble
+    <button onclick="window.location.href='../login/sign_in.php'">Login In</button>
+
 </body>
 </html>
