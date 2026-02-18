@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>sign_in</title>
+    <link rel="stylesheet" href="../stop_z_wypalniem_gał.css">
+
 </head>
 <body>
     <h1>Zaloguj sie</h1>
