@@ -35,4 +35,13 @@ Jak zad wykonane to pisz NP. -T-nazwa_brancha-użytkownik może dokonać rejestr
 
 !!!!!!!!!!!!Nazwa bazy danych to -"sprzantando"- ja nie zrobisz takiej to ci nie zadziała!!!!!!!!!
 
+19.02.26
+kry-logowanie
+bor-email-aktywacje
+max-tapczan_wygląd
+tym-strona_glowna uklad
+
+
+
+
 w sql musi być nick w profilu dla sprawdzenia czy wszystko sie dobrze zrobiło jebac nadmiarowość danych
