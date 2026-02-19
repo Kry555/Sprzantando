@@ -41,7 +41,4 @@ bor-email-aktywacje
 max-tapczan_wygląd
 tym-strona_glowna uklad
 
-
-
-
 w sql musi być nick w profilu dla sprawdzenia czy wszystko sie dobrze zrobiło jebac nadmiarowość danych
